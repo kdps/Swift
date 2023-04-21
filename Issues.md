@@ -1,5 +1,13 @@
 # Swift
 
+#### dyld[...]: Symbol not found: (_$s14KakaoSDKCommon11SessionTypeO3ApiyA2CmFWC) Referenced from:
+
+```bash
+pod deintegrate
+
+pod install
+```
+
 #### App called -statusBar or -statusBarWindow on UIApplication: this code must be changed as there's no longer a status bar or status bar window. Use the statusBarManager object on the window scene instead.
 
 ```Swift
